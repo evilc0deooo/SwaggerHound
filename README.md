@@ -36,4 +36,6 @@ python3 swagger-hound.py -f url.txt
 感谢 @jayus0821 @lijiejie 
 
 https://github.com/jayus0821/swagger-hack/tree/main
+
 https://github.com/lijiejie/swagger-exp
+
