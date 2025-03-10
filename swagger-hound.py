@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# https://github.com/evilc0deooo/SwaggerHound
 
 import json
 import sys
